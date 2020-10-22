@@ -1,0 +1,5 @@
+-   id: sqlformat
+    name: sqlformat
+    entry: sqlformat-inplace
+    language: python
+    files: \.sql$
